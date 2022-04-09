@@ -1,10 +1,9 @@
-# sql-ex.exercises
 
+# sql-ex.exercises
 
 ## БД. Схема 1
 
-Изображение
-
+![](https://github.com/klimovich-anton/sql-ex.exercises/blob/main/data_schema/db_1_computer_firm.png)
 
 ### Задача 1
 Найдите номер модели, скорость и размер жесткого диска для всех ПК стоимостью менее 500 дол. Вывести: model, speed и hd
